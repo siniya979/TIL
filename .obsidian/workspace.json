@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "070b9bffe5d806c5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,10 +155,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ede7690a4c1780a1",
+  "active": "65cc64838c5819cd",
   "lastOpenFiles": [
-    "Pasted image 20231214101132.png.md",
     "2023_12/20231214.md",
+    "Spaces/Home",
+    "Spaces",
+    "Pasted image 20231214101132.png.md",
     "2023_12/20231213.md",
     "Pasted image 20231214101051.png",
     "Pasted image 20231214101132.png",
